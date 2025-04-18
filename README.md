@@ -37,4 +37,7 @@ A responsive and stylish fitness landing page built using HTML and CSS. This pro
 
 ## 📂 File Structure
 
+![image](https://github.com/user-attachments/assets/29814ae9-64c0-42d7-8b03-16bab9151b2f)
+
+
 
